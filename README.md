@@ -82,3 +82,6 @@ working with Docker Compose and Docker Hub.
 ### Next Step
 
 Kubernetes 🚀
+
+<img width="1918" height="1075" alt="Screenshot 2026-08-19 220940" src="https://github.com/user-attachments/assets/0e705de0-2a6c-4142-99b1-e7a6f5da37a1" />
+
